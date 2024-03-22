@@ -2,7 +2,7 @@
 This repository includes implementations of global thresholding using Otsu's method and mean thresholding as an adaptive thresholding technique.
 
 <p align="center">
-  <img src="https://github.com/NurEser/ImageThresholding/blob/main/photo-1606590056137-c3c4f42074d4_processed.jpg"  alt="Global output" width="45%"/>
+  <img src="https://github.com/NurEser/ImageThresholding/blob/main/photo-1635500574974-114cb4f49759_processed.jpg"  alt="Global output" width="45%"/>
   <img src="https://github.com/NurEser/ImageThresholding/blob/main/photo-1606590056137-c3c4f42074d4_processed.jpg" alt="Adaptive Output" width="45%"/> 
 </p>
 
