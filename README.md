@@ -26,7 +26,7 @@ Image thresholding is a technique in image processing used for various applicati
 
 
 ```
-pip install numpy Pillow matplotlib scipy
+$ pip install numpy Pillow matplotlib scipy
 ```
 
         
@@ -35,7 +35,7 @@ pip install numpy Pillow matplotlib scipy
 The script can be executed from the command line by providing the path to an input image or directory of images, the output directory path, and the thresholding type.
 
 ```
-python image_thresholding.py <input_path> <output_directory> <threshold_type>
+$ python image_thresholding.py <input_path> <output_directory> <threshold_type>
 ```
 
 	input_path: Path to an image file or a directory containing multiple images.
