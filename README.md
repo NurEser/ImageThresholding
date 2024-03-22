@@ -1,12 +1,15 @@
 # ImageThresholding
 This repository includes implementations of global thresholding using Otsu's method and mean thresholding as an adaptive thresholding technique.
 
+![Example output(global)](https://github.com/NurEser/ImageThresholding/blob/main/photo-1606590056137-c3c4f42074d4_processed.jpg)
+
+![Example output(adaptive)]([
+](https://github.com/NurEser/ImageThresholding/blob/main/photo-1606590056137-c3c4f42074d4_processed.jpg)
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Example Outputs](#example-outputs)
 
 ## Introduction 
 
