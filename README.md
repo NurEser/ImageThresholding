@@ -14,11 +14,11 @@ This repository includes implementations of global thresholding using Otsu's met
 
 ## Introduction 
 
-Image thresholding is a technique in image processing used for various applications such as object detection, segmentation, and feature extraction. This project implements two main types of image thresholding:
+Image thresholding is a technique in image processing used for various applications such as object detection, segmentation, and feature extraction. Or simply for aesthetically appealing images. This project implements two main types of image thresholding:
 
-		Global Thresholding: In this method, a single threshold value is used to binarize the entire image. For global thresholding, Otsu's method is utilized to determine the optimal threshold value. 
+Global Thresholding: In this method, a single threshold value is used to binarize the entire image. For global thresholding, Otsu's method is utilized to determine the optimal threshold value. 
   
-		Adaptive Thresholding: This method calculates different threshold values for different regions of the image. With this method, I aimed for aesthetically appealing pictures by employing the mean thresholding technique. 
+Adaptive Thresholding: This method calculates different threshold values for different regions of the image. I employed mean thresholding. 
 
 
 ## Installation
